@@ -9,7 +9,7 @@ I'm a sutudent.
 # 使用言語
 C言語
 # 使用OS
-Ubuntu20.04.1LTS
+Ubuntu20.04.1 LTS
 
 # 準備
 1. プログラムをクローンする
