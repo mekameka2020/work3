@@ -1,5 +1,5 @@
 /*
-  Copyright (c) 2021 mekameka2020
+  Copyright (c) 2021 Hidetoshi Kawano
 
   This software is released under the MIT License.
   http://opensource.org/licenses/mit-license.php
