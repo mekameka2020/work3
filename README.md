@@ -28,4 +28,5 @@ sudo apt install gcc
 ```
 
 # ライセンス
-[MIT Lisence]
+[MIT License]
+(https://github.com/mekameka2020/work3/blob/main/LICENSE)
