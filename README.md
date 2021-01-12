@@ -34,6 +34,8 @@ sudo apt install gcc
 ```sh
 ./call
 ```
+# 参照動画
+https://www.youtube.com/watch?v=aPvokROZbog
 
 # ライセンス
 [MIT License](https://github.com/mekameka2020/work3/blob/main/LICENSE)
