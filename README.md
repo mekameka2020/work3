@@ -29,3 +29,7 @@ sudo apt install gcc
 
 # ライセンス
 [MIT License](https://github.com/mekameka2020/work3/blob/main/LICENSE)
+
+# READMEの書き方(ライセンスのリンク方法)の参考にした方
+- TanapolHoungsuwan
+リンク：https://github.com/TanapolHongsuwan/ROS_recorder/blob/main/README.md
