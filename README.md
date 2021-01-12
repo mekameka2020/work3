@@ -26,3 +26,6 @@ sudo apt install gcc
 ```sh
 ./call
 ```
+
+# ライセンス
+[MIT Lisence]
