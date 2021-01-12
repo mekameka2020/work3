@@ -6,6 +6,8 @@
 I'm a sutudent.
 ```
 と表示してくれます。
+# 使用言語
+C言語
 # 準備
 1. プログラムをクローンする
 ```sh
@@ -20,7 +22,7 @@ gcc call.c -o call
 sudo apt install gcc
 ```
 # 実行方法
-以下のコマンドを打ち込む。
+以下のコマンドを打ち込む
 ```sh
 ./call
 ```
