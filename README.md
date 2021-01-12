@@ -16,7 +16,12 @@ Ubuntu20.04.1 LTS
 ```sh
 git clone https://github.com/mekameka2020/work3.git
 ```
-2. コンパイルを行う
+2. リポジトリに入る
+```sh
+cd work3
+```
+
+3. コンパイルを行う
 ```sh
 gcc call.c -o call
 ```
