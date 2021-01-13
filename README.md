@@ -41,13 +41,17 @@ sudo apt install gcc
 ./call
 ```
 # 内容2.の実行方法
-以下のコマンドを打ち込む
+1. 以下のコマンドを打ち込む
 ```sh
 ./rider
 ```
-# 参照動画
-https://www.youtube.com/watch?v=aPvokROZbog
+2. 知りたい平成ライダーの放送年を入力するよう指示が表示されるので打ち込む
 
+3. その年の平成ライダーの名前が表示される
+
+# 参照動画
+内容1：https://www.youtube.com/watch?v=aPvokROZbog
+内容2：https://www.youtube.com/watch?v=EdACbG5k9Ds
 # ライセンス
 [MIT License](https://github.com/mekameka2020/work3/blob/main/LICENSE)
 
