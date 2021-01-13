@@ -1,11 +1,14 @@
 # work3
 課題３用の提出用リポジトリです。
 # 内容
-プログラムを実行すると
+
+1. プログラムを実行すると
 ```sh
 I'm a sutudent.
 ```
 と表示してくれます。
+
+2. 放送年を入力するとその年の平成ライダーの名前が表示されます。
 # 使用言語
 C言語
 # 使用OS
@@ -25,14 +28,22 @@ cd work3
 ```sh
 gcc call.c -o call
 ```
+```sh
+gcc grep_rider.c -o rider
+```
 - もしgccがインストールされてない場合は以下のコマンドを打ち込む。
 ```sh
 sudo apt install gcc
 ```
-# 実行方法
+#　内容1.の実行方法
 以下のコマンドを打ち込む
 ```sh
 ./call
+```
+# 内容2.の実行方法
+以下のコマンドを打ち込む
+```sh
+./rider
 ```
 # 参照動画
 https://www.youtube.com/watch?v=aPvokROZbog
