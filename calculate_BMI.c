@@ -2,7 +2,7 @@
  *   Copyright (c) 2021 Hidetoshi Kawano
  *
  *     This software is released under the MIT License.
- *       http://opensource.org/licenses/mit-license.php
+ *     http://opensource.org/licenses/mit-license.php
  *        */
 
 #include<stdio.h>
