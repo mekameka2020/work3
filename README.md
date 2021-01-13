@@ -66,9 +66,9 @@ sudo apt install gcc
 4. 自分のBMI・肥満レベルが表示される
 
 # 参照動画
-内容1：https://www.youtube.com/watch?v=aPvokROZbog
-内容2：https://www.youtube.com/watch?v=EdACbG5k9Ds
-内容3：https://www.youtube.com/watch?v=Fzlo9-LVNqc
+- 内容1：https://www.youtube.com/watch?v=aPvokROZbog
+- 内容2：https://www.youtube.com/watch?v=EdACbG5k9Ds
+- 内容3：https://www.youtube.com/watch?v=Fzlo9-LVNqc
 # ライセンス
 [MIT License](https://github.com/mekameka2020/work3/blob/main/LICENSE)
 
