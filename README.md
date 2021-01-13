@@ -8,9 +8,7 @@ I'm a sutudent.
 ```
 と表示してくれます。
 
-2. 放送年を入力するとその年の平成ライダーの名前が表示されます。
-
-3. 自分の身長・体重を入力すると、自分のBMIとそのレベルを表示してくれます。
+2. 自分の身長・体重を入力すると、自分のBMIとそのレベルを表示してくれます。
 # 使用言語
 C言語
 # 使用OS
@@ -31,9 +29,6 @@ cd work3
 gcc call.c -o call
 ```
 ```sh
-gcc grep_rider.c -o rider
-```
-```sh
 gcc calculate_BMI -o BMI
 ```
 - もしgccがインストールされてない場合は以下のコマンドを打ち込む。
@@ -48,15 +43,6 @@ sudo apt install gcc
 # 内容2.の実行方法
 1. 以下のコマンドを打ち込む
 ```sh
-./rider
-```
-2. 知りたい平成ライダーの放送年を入力するよう指示が表示されるので打ち込む
-
-3. その年の平成ライダーの名前が表示される
-
-# 内容3.の実行方法
-1. 以下のコマンドを打ち込む
-```sh
 ./BMI
 ```
 2. 自分の身長を入力する
@@ -67,12 +53,11 @@ sudo apt install gcc
 
 # 参照動画
 - 内容1：https://www.youtube.com/watch?v=aPvokROZbog
-- 内容2：https://www.youtube.com/watch?v=EdACbG5k9Ds
-- 内容3：https://www.youtube.com/watch?v=Fzlo9-LVNqc
+- 内容2：https://www.youtube.com/watch?v=Fzlo9-LVNqc
 # ライセンス
 [MIT License](https://github.com/mekameka2020/work3/blob/main/LICENSE)
 
-# 内容３の参考にしたページ
+# 内容２の参考にしたページ
 https://keisan.casio.jp/exec/system/1161228732
 
 # READMEの書き方(ライセンスのリンク方法)の参考にした方
