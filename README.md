@@ -40,7 +40,7 @@ gcc calculate_BMI -o BMI
 ```sh
 sudo apt install gcc
 ```
-#　内容1.の実行方法
+# 内容1.の実行方法
 以下のコマンドを打ち込む
 ```sh
 ./call
